@@ -1,0 +1,5 @@
+# ignore files that can be generated
+*.gcode
+*.stl
+*.dxf
+*.png
